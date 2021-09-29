@@ -1,0 +1,3 @@
+include README.md
+include mailroom/donor_csv.csv
+include mailroom/data/*.txt
